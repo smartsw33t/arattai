@@ -7,23 +7,53 @@
         நான் உங்கள் தமிழ். <delay>3</delay>
 	இந்த வலைதளத்தில் உள்ள பல்வேறு அம்சங்களையும் சேவைகளையும் <delay>3</delay>
    உங்களுக்கு விளக்கிக் காட்டவே நான் வந்திருக்கிறேன்.  <delay>3</delay>
+உங்களுடைய தேடல் என்ன? <delay>3</delay>
     <button>
-    <text></text>
-    <url></url>
+    <text>திரைப்படங்கள்</text>
+    <url>https://valaithamil.com/movies.html</url>
     </button>
     <button>
-    <text></text>
-    <url></url>
+    <text>அர்த்தங்கள்</text>
+    <url>https://www.youtube.com/channel/UCU6TRzsLAowQk0QZ97tKJ_A</url>
     </button>
      <button>
-    <text></text>
-    <url></url>
+    <text>Letter Counter எழுத்து உறுப்புகளின் எண்ணிக்கை</text>
+    <url>https://valaithamil.com/#lettercounter</url>
     </button>
      <button>
-    <text></text>
-    <url></url>
+    <text>கசதப எழுத்துகளை அடையாளம் காணுதல்</text>
+    <url>https://valaithamil.com/#kasathapa</url>
     </button>
      <button>
+    <text>மொழிபெயர்ப்புத் தொழில்</text>
+    <url>https://valaithamil.com/translation.html</url>
+    </button>
+<button>
+    <text>புத்தகங்கள்</text>
+    <url>https://valaithamil.com/books.html</url>
+    </button>
+<button>
+    <text>மொழி ஆர்வலர்களுக்கான மென்பொருட்கள்</text>
+    <url>https://valaithamil.com/#tamilsoft</url>
+    </button>
+<button>
+    <text>பரிந்துரைக்கப்படும் வலைப்பூக்கள் </text>
+    <url>https://valaithamil.com/#blogs</url>
+    </button>
+<button>
+    <text>பிற நல்ல வலைப்பூக்கள்</text>
+    <url>https://valaithamil.com/#blogresources</url>
+    </button>
+<button>
+    <text>பரிந்துரைக்கப்படும் யூடியூப் சேனல்கள்</text>
+    <url>https://valaithamil.com/#reccyoutube</url>
+    </button>
+
+<button>
+    <text>பேச்சுவழக்குத் தமிழ் அர்த்தங்கள்</text>
+    <url>https://valaithamil.com/#urbandict</url>
+    </button>
+<button>
     <text></text>
     <url></url>
     </button>
