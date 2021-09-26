@@ -1,44 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding ="UTF-8"?>
 <aiml>
-    <category>
-    
+  <category>
     <pattern>*</pattern>
-    <template>வணக்கம்</template>
-  </category>
-  
- <category>
-    <pattern>_ சாப்டீங்களா </pattern>
-    <template>இல்ல, நீங்களே ஏதாவது ஆர்டர் பண்ணுங்க</template>
-  </category>
-<category>
-<pattern>என் பெயர் *</pattern>
-<template> வணக்கம் <set name="firstname"><star/>,</set>
-		<condition name="firstname">
-					<li name="ஜெய்">என்னை உருவாக்கினவர் பெயரும் ஜெய்</li>
-		    	<li>நல்ல பெயர், என் பெயர் தமிழ். நான் பாலினம் அற்ற கணிப்பொறி அரட்டை இயந்திரம்</li>
-		    
-		</condition>
-            </template>
- </category>
-  
-<category>
-    <pattern>புண்ட *</pattern>
-    <template>மனிதர்கள் எல்லாரும் அந்த வழியா தான் பிறக்குறாங்க. நீங்களும் அப்படித்தான் பிறந்து இருப்பீங்க</template>
-  </category>
-    <category>
-    <pattern>புண்ட</pattern>
-    <template><srai>புண்ட *</srai></template>
-  </category>
-<category>
-	
-    <pattern>உனக்கு இது பிடிக்குமா</pattern>
-	    <template>
-			<condition name="இது"> 
-			<li value ="தெரியாது">  இதுனா எது</li>
-			
-			</condition>
-			    
-						
-		</template>
+    <template>
+        வலைத்தமிழ் இணயதளத்திற்கு உங்களை வரவேற்கிறோம். <delay>3</delay>
+        நான் உங்கள் தமிழ். <delay>3</delay>
+	இந்த வலைதளத்தில் உள்ள பல்வேறு அம்சங்களையும் சேவைகளையும் <delay>3</delay>
+   உங்களுக்கு விளக்கிக் காட்டவே நான் வந்திருக்கிறேன்.  <delay>3</delay>
+    <button>
+    <text></text>
+    <url></url>
+    </button>
+    <button>
+    <text></text>
+    <url></url>
+    </button>
+     <button>
+    <text></text>
+    <url></url>
+    </button>
+     <button>
+    <text></text>
+    <url></url>
+    </button>
+     <button>
+    <text></text>
+    <url></url>
+    </button>
+
+</template>
 </category>
+
+    
+    
+    
+    
+    
 </aiml>
